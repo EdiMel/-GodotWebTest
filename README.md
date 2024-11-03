@@ -1,1 +1,1 @@
-# -GodotWebTest
+# GodotWebTest
